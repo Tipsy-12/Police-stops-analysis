@@ -31,7 +31,7 @@ Key Findings and Insights:
 
 2. Violation Patterns:
    - Analyzed most common traffic violations
-   - Investigated relationship between violation type and driver characteristics
+   - Investigated the relationship between violation type and driver characteristics
 
 3. Search Conduct Analysis:
    - Examined factors influencing police searches during stops
