@@ -70,21 +70,5 @@ Advanced Techniques Employed:
 6. Bias Detection:
    - Implemented algorithms to detect potential racial or gender biases in policing practices
 
-Impact and Applications:
 
-1. Policy Recommendations:
-   - Provided data-driven insights for improving police training and procedures
-
-2. Transparency and Accountability:
-   - Contributed to public understanding of law enforcement practices
-
-3. Resource Allocation:
-   - Identified areas for optimizing police resource deployment
-
-4. Community Relations:
-   - Offered insights to enhance trust between law enforcement and communities
-
-5. Legal and Civil Rights:
-   - Supported efforts to ensure fair and unbiased policing practices
-
-This project showcases advanced data science skills, including data wrangling, statistical analysis, machine learning, and data visualization. The comprehensive approach to analyzing a large, complex dataset demonstrates strong analytical capabilities and the ability to derive actionable insights from raw data. The project's focus on a socially relevant topic highlights the potential for data science to contribute to important public policy discussions and drive positive change in law enforcement practices.
+This project showcases advanced data science skills, including data wrangling, statistical analysis, machine learning, and data visualization. The comprehensive approach to analyzing a large, complex dataset demonstrates strong analytical capabilities and the ability to derive actionable insights from raw data. 
