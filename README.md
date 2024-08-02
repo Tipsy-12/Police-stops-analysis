@@ -61,14 +61,3 @@ Advanced Techniques Employed:
 3. Time Series Decomposition:
    - Analyzed trends, seasonality, and cyclical patterns in stop data
 
-4. Hypothesis Testing:
-   - Conducted statistical tests to validate observations and identify significant patterns
-
-5. Predictive Modeling:
-   - Developed models to predict search likelihood and stop outcomes
-
-6. Bias Detection:
-   - Implemented algorithms to detect potential racial or gender biases in policing practices
-
-
-This project showcases advanced data science skills, including data wrangling, statistical analysis, machine learning, and data visualization. The comprehensive approach to analyzing a large, complex dataset demonstrates strong analytical capabilities and the ability to derive actionable insights from raw data. 
